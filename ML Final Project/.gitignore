@@ -1,0 +1,6 @@
+.DS_Store
+*.docxi
+*.pyc
+*.db
+mystuff/
+backupsvm.py

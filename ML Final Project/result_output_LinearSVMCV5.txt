@@ -1,0 +1,21 @@
+
+Parameters under test
+Regularization=1Accuracy=45.000000
+Parameters under test
+Regularization=2Accuracy=40.000000
+Parameters under test
+Regularization=5Accuracy=57.500000
+Parameters under test
+Regularization=10Accuracy=47.500000
+Parameters under test
+Regularization=15Accuracy=45.000000
+Parameters under test
+Regularization=20Accuracy=42.500000
+Parameters under test
+Regularization=25Accuracy=40.000000
+Parameters under test
+Regularization=30Accuracy=40.000000
+Parameters under test
+Regularization=50Accuracy=50.000000
+Parameters under test
+Regularization=100Accuracy=50.000000
